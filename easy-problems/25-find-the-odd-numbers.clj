@@ -1,0 +1,1 @@
+(fn [sq] (filter odd? sq))
